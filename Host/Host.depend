@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1458756931 source:/home/felipe/Documentos/OpenCL/TRABALHO-1/Host/host.cpp
+	<iostream>
+	<CL/cl.h>
+	"Error.h"
+
+1458756839 /home/felipe/Documentos/OpenCL/TRABALHO-1/Host/Error.h
+	<iostream>
+	<CL/cl.h>
+
